@@ -8,7 +8,7 @@
 
 	##Requirements
 
-		###Functional
+		######Functional
 
 			* Add a link in the auto-generated email notification
 
@@ -19,7 +19,7 @@
 
 			* Send data to BSD Database
 
-		###Non-Functional
+		######Non-Functional
 
 			* Get Familiar with Git
 			
